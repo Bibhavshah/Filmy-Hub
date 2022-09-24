@@ -1,0 +1,30 @@
+* {
+  scroll-behavior: smooth;
+}
+
+button.MuiPaginationItem-root {
+  color: white;
+}
+
+div.MuiPaginationItem-root {
+  color: white;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: #0F3460;
+  color: white;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+.page-title {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2vw;
+  padding: 4px;
+  border-radius: 50px;
+  color: white;
+}
